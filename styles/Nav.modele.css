@@ -1,0 +1,27 @@
+.nav2 {
+    font: menu;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    float: left;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 16px 24px;
+  
+  }
+  
+  .nav1 a:hover{
+    background: #eaeaea;
+    color: aqua;
+  }
+
+  .nav1{
+    position: sticky;
+    top: 0px;
+    background-color: #066cfa;
+    margin: 0px;
+    overflow: hidden;
+    margin-top: 160px;
+  }

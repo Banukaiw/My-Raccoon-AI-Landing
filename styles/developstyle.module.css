@@ -1,0 +1,195 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ } */
+
+ @import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+.center1{
+   justify-content: center;
+   justify-items: center;
+   align-items: center;
+   text-align: center;
+ 
+}
+
+ .body{
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    color: #06b3f8;
+
+ }
+ .h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+ }
+ .team{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+    grid-gap: 50px;
+    margin: 50px auto;
+    max-width: 1240px;
+    padding: 20px;
+    
+ }
+ .product{
+    padding: 10px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+    height: 100%;
+    background-color: #b1f2ff;
+    cursor: pointer;
+ }
+
+ .product:hover{
+   transform: scale(1.02);
+
+ }
+
+ .product1{
+   padding: 10px;
+   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+   height: 100%;
+   background-color: #010b24;
+   cursor: pointer;
+}
+.product1:hover{
+   transform: scale(1.02) ;
+ }
+
+/*  background-color: #b1f2ff;010b24 */
+
+
+ .profile1{ 
+   width: 55%;
+   height: 100%;
+   display: block;
+   border-radius: 50%;
+   justify-content: space-around;
+ 
+   margin-left: 30%;
+   margin-right: 10%;
+   filter: grayscale(0%);
+   cursor: pointer;
+   transition: 400ms;
+   transition: 1.8s easy;
+   cursor: pointer;
+   border-color: black;
+   border: 7px solid #22baec ;
+   
+
+ }
+
+/*  .profile1:hover {
+   filter:grayscale(0);
+   transform: scale(1.05) ;
+ } */
+ .product .title{
+    text-align: center;
+     font-family: "Poppins", sans-serif;
+   font-weight: 550;
+    font-size: 25px; 
+ }
+ .product .description{
+ 
+    line-height: 22px;
+    font-family: "poppins", sans-serif;
+    color: #666363;
+    margin-left: 6%;
+    margin-right: 6%;
+ }
+ .product .price{
+    text-align: center;
+    color: #1a01ff;
+    font-size: 18px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+    
+ }
+ .product .cart{
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    background-color: #3e628f;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+ }
+ .product .cart i{
+    padding-left: 10px;
+ }
+ .view-more{
+    margin: 0 auto;
+    max-width: 1240px;
+    padding: 20px;
+    text-align: center;
+ }
+ .view-more button{
+    padding: 10px 25px;
+ }
+
+
+ /* social media ///////////////////////////////////////////////////// */
+
+
+ .sociallink{
+   display: flex;
+   text-align:center;
+   
+  
+}
+
+.quicklink{
+   display:flex;
+   
+}
+
+.sociallink ul li{
+  list-style-type: none;
+  display: inline-block;
+   
+}
+
+.quicklink ul li{
+   list-style-type: none;
+   display: inline-block;
+   color: rgb(128, 69, 184);
+   
+}
+
+.sociallink ul{
+   display: flex;
+}
+
+.socialitem{
+   list-style:none;
+}
+
+.socialitem a{
+   padding: 10px 15px;
+   font-size: 20px;
+   color: rgb(21, 56, 25);
+}
+
+.nav ul li{
+   list-style-type: none;
+   display: inline-block; 
+   color: white;  
+   padding: 20px 10px;  
+}
+
+
+
+
+.stick1:hover{
+   color: blue;
+}
+
+.stick1 li a:hover{
+   color:  #066cfa;
+}
+
+
+
+

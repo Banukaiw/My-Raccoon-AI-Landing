@@ -1,0 +1,96 @@
+[
+
+    {
+        "id" : 1,
+        "title" :"Case Study",
+        "title1" :"CASE STUDY",
+        "description": " This is providing the case studies where you can adopt your data into decisions ",
+        "description1": " The case study involves a retail company struggling to maintain profitability due to fierce competition and changing market trends. The company decides to implement a digital transformation strategy, which includes upgrading their online presence, improving supply chain management, and leveraging customer data for personalized marketing. The strategy leads to increased sales, improved customer satisfaction, and higher profits for the company. ",
+        "subs": 
+        {
+
+            "Geographical Visualize : Sri Lanka":"Visualize your data on the Sri Lankan map",
+            "Sales Prediction":"Predict your sales using simple linear regression", 
+            "Sales Prediction Advanced":"Predict your sales using multiple linear regression (supporting multiple features)", 
+            "Churn Prediction":"Predict customer churn using Artificial Neural Network", 
+            "Trend Analysis":"Analyze the trend of your data using logestic regression",
+            "Smart Data Clustering":"Cluster your data using K-Means Clustering",
+            "Predictive Analytics":"Predict the outcome of a customer buying a product using Random Forest",
+            "Yield Prediction":"Predict the yeild of a crop using Gradient Boosting",
+            "Insurance Price Predictor":"Predict your insurance price through the multiple linear regression",
+            "Insurance Price Predictor-2":"Predict your insurance price through the polynomial regression",
+            "Loan Deflater Prediction":"Predict your loan deflater through the regression methods",
+            "House Price Prediction":"Predict your house price through the regression methods",
+            "Stock Predicton":"Predict your insurance price through the multiple linear regression",
+            "Car Price Predicton":"Predict your car price through the regression methods"
+             
+               
+        },
+       
+        "image" :"/images/127.jpg",
+        "image1" :"/images/CS.jpg"
+    },
+    {
+        "id" : 2,
+        "title" :"Tools",
+        "title1" :"TOOlS AND PREPAIRE",
+        "description": "Prepare your datasets here and Process and download.  ", 
+        "description1":"Tools and repair refer to the equipment and skills used to fix and maintain various objects, machines, and structures. The tools may include hand tools such as hammers, wrenches, and screwdrivers, as well as power tools such as drills, saws, and sanders. The repair skills may range from basic tasks such as changing a light bulb to more complex tasks such as fixing a leaking pipe or repairing an engine. Tools and repair are essential for homeowners, professionals, and businesses to ensure that their property and equipment are in good working condition. ",
+        "subs": 
+        {
+            "Analyze your dataset":"This toolkit provides a rich insight in to your dataset. Our functione valuate your dataset on-the-spot and provides analysis helping you to identify impurities and biases in your data set               .            .                          .      .",
+            "Preprocess & Download":"This tool takes your dataset in to our system for preprocessing and data cleaning. You will be able to download your dataset after the cleaning process. The cleaned dataset then can use through our machine learning model gallery.", 
+            "Visualize your dataset":"Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data."
+
+        },    
+        "image" :"/images/128.jpg",
+        "image1" :"/images/Tool.jpeg"
+        
+    },
+    {
+        "id" : 3,
+        "title" :"ML Model Gallery",
+        "title1" :"ML MODEL GALLERY",
+
+        "subs": 
+        {
+            "Linear Regression":"This machine learning algorithm allows you to identify linear pattern between two variables in your dataset. After feeding enough data, you will be able to provide a reasonable prediction based on our model.",
+            "Multiple Regression":"This machine learning algorithm allows you to identify linear pattern between two or more variables in your dataset. After feeding enough data, you will be able to provide a reasonable prediction based on our model.", 
+            "Decision Tree":"A decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks.It has a hierarchical, tree structure, which consists of a root node, branches, internal nodes."
+
+        },    
+
+
+        "description": "Test our built models before you walk in, See the power. ",
+        "description1":"A ML model gallery is a collection of pre-trained machine learning models that can be used for various tasks such as image recognition, natural language processing, recommendation systems, and more. These models are often trained on large datasets and optimized for high accuracy and efficiency. The gallery may include models that are open-source, commercial, or a mix of both. Users can access these models and integrate them into their own applications or workflows, without having to train their own models from scratch. ",
+        "image" :"/images/129.jpg",
+        "image1" :"/images/ML.jpg"
+
+    },
+    {
+        "id" : 4,
+        "title" :"Datasets",
+        "title1" :"DATASETS",
+        "code" :"datasets",
+        "subs": 
+        {
+            "Rice Production":"Rice production  is one of the main productions and staple foods in Sri Lanka.This dataset comprised with production of rice in both Yala and Maha seasons from 1952 to 2010.",
+            "Community Based Stat. Data":"This dataset provides information on the community statistical data in Sri Lanka.These datasets are based on government-published surveys and questioners.", 
+            "Economical Data":"This dataset has economical data of Sri lanka mostly forcus on gross domestic and industrial production."
+
+        },    
+        "description": "This is where you can find datasets to a analysis to use for your business ",
+        "description1":"The dataset contains information about a company's sales performance over a period of time, including revenue, expenses, profits, and other relevant metrics. It may also include customer data such as demographics, purchase history, and feedback. The dataset may be used to identify trends and patterns in the company's sales and customer behavior, to assess the effectiveness of marketing campaigns, and to make data-driven decisions about product development, pricing, and other aspects of the business. ",
+
+
+        "image" :"/images/129.jpg",
+        "image1" :"/images/DB.jpg"
+    }
+    
+  
+  ]
+  
+  
+
+  
+              

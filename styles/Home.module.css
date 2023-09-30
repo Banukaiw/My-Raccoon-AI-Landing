@@ -1,0 +1,321 @@
+
+/* .bg {
+  background-image: url("./components/image/background1.jpg");
+}
+ */
+
+ .workbench2{
+  color: aqua;
+ }
+
+.menu1{
+  width: 400px;
+  float: 35px;
+  height: 70px;
+  
+}
+
+.ui1{
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.ui1 li{
+  list-style: none;
+  margin-left: 62px;
+}
+
+
+.box1{
+  position: relative;
+  left: 100px;
+}
+
+ .body1{
+  display:flex;
+  height: 100vh;
+  justify-content: center;
+  color: rgb(8, 8, 8);
+   
+} 
+
+.container1{
+  max-width: 700px;
+  width: 600px;
+  height: 600px;
+  background: #9a98f1;
+  padding: 25px 30px;
+  border-radius: 15px;
+}
+
+.container3{
+  /* max-width: 700px; */
+  margin-top: 1000;
+  width: 1600px;
+  height: 630px;
+  background: #c6eeec;
+
+}
+
+
+.body2{
+  padding: 0px;
+  margin: 0px;
+  background: #e1e1e1;
+}
+
+.header1{
+  background-color: rgba(0, 0, 0, 0.9);
+  padding: 6px 24px;
+  text-align: left;
+  color: white;
+  margin: 0px;
+  letter-spacing: 1px;
+  font: caption;
+  font-size: 24px;
+
+}
+
+
+.nav2 {
+  font: menu;
+  text-decoration: none;
+  font-size: 18px;
+  letter-spacing: 1px;
+  box-sizing: border-box;
+  float: left;
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 16px 24px;
+
+}
+
+.nav1 a:hover{
+  background: #eaeaea;
+  color: aqua;
+}
+
+/* /////index page nav bar 1 */
+.nav1{
+  position: sticky;
+  top: 0px;
+  background-color: #066cfa;
+  margin: 0px;
+  overflow: hidden;
+  margin-top: 160px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .sticky1{
+  width: 80%;
+  margin: 0 auto;
+
+}
+
+.sticky1::after{
+  display: table;
+  content: "";
+  clear: both;
+}
+
+.sticky1. sandbox {}
+
+.sticky3{
+  background: #222;
+  padding: 40px 40px 60px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  box-shadow: 0 12px 0 -6px #fa90a3;
+} */
+
+/* .lesson{}
+::after
+sandbox
+stiky side */
+
+
+
+.container2{
+  /* display: flex;s
+  flex-wrap: wrap; */
+ /*  justify-content: space-between; */
+} 
+
+/* .inputbox1{
+  width:calc(100%/2- 20px);
+  height: 85px;
+  width: 100px;
+  background-color: aliceblue;
+}
+ */
+.inputbox2{
+  color: rgb(49, 48, 48);
+  height: 35px;
+  width: 500px;
+  background-color: #eaeaea;
+}
+
+
+
+
+
+
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.title a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.title a:hover,
+.title a:focus,
+.title a:active {
+  text-decoration: underline;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+.title,
+.description {
+  text-align: center;
+}
+
+.description {
+  margin: 4rem 0;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.code {
+  background: #fafafa;
+  border-radius: 10px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+}
+
+.card {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  max-width: 300px;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+  color: #0070f3;
+  border-color: #0070f3;
+}
+
+.card h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.logo {
+  height: 1em;
+  margin-left: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .card,
+  .footer {
+    border-color: #222;
+  }
+  .code {
+    background: #111;
+  }
+  .logo img {
+    filter: invert(1);
+  }
+}
+
+
+
+
+ 

@@ -1,0 +1,49 @@
+.title{
+    font-size: 35pX;
+    line-height: 20PX;
+    margin-top: 6%;
+    font-weight: 500;
+   
+    text-align: left;
+    
+    color: #000;
+   /*  https://www.ragadesigners.com/ 
+
+   https://www.google.com/search?q=website+design&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHyZaAwOj9AhW--TgGHRrsCXUQ_AUoAXoECAEQAw&biw=1536&bih=711&dpr=1.25#imgrc=0E3_zJgl0xplvM&imgdii=g6-uBUHO2Ai1bM
+   
+   
+   */
+}
+
+.description{
+   text-transform: uppercase;
+    text-align: left;
+    text-align: justify;
+    font-weight: 550;
+   
+  
+    
+    color: #000;
+  
+   
+}
+
+.description1{
+    margin-top: 3%;
+    font-size: 16px;
+    color: #000000;
+    text-align: justify;
+   
+}
+.profile1{
+    width: 100%;
+}
+
+.profile2{
+    width: 100%;
+    border-color: #000;
+    border-style: initial;
+   
+    border-radius: 20px ;
+    
+}

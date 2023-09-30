@@ -1,0 +1,36 @@
+[
+
+  {
+      "name" :"Mr.Chathura Maheshan",
+      "description": "professional who creates and maintains websites by writing code, configuring servers and databases, and using various tools and technologies. ",
+      "position": "Web developer",
+      "linknd": "https://twitter.com/ ",
+      "image" :"/images/profile5.jpg"
+  },
+  {
+    "name" :"Mr.Navindu Madanayaka",
+    "description": "professional who creates and maintains websites by writing code, configuring servers and databases, and using various tools and technologies. ",
+    "position": "Web developer",
+    "linknd": " https://twitter.com/ ",
+    "image" :"/images/profile3.jpg"
+  },
+  {
+    "name" :"Mrs.Nilmini Thennakoon",
+    "description": "professional who creates and maintains websites by writing code, configuring servers and databases, and using various tools and technologies. ",
+    "position": "project manager",
+    "linknd": "https://twitter.com/",
+    "image" :"/images/profile4.jpg"
+  },
+
+  {
+    "name" :"Mr. Anil Pradeep",
+    "description": "professional who creates and maintains websites by writing code, configuring servers and databases, and using various tools and technologies. ",
+    "position": "General manager",
+    "linknd": "https://twitter.com/",
+    "image" :"/images/profile7.jpeg"
+  }
+  
+]
+
+
+
